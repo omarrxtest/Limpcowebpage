@@ -1555,6 +1555,12 @@ body.mobile-nav-active #mobile-nav-toggle {
     max-height: 40px;
   }
 
+img {
+    float: left;
+    border-style: none;
+    width: 180.52px;
+  }
+
   #intro h2 {
     font-size: 28px;
   }
