@@ -267,141 +267,73 @@
 
         <header class="section-header wow fadeInUp">
           <h3>Servicios</h3>
+          <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus, ad
+            pro quaestio laboramus. Ei ubique vivendum pro. At ius nisl accusam lorenta zanos paradigno tridexa
+            panatarel.</p>
         </header>
 
         <div class="row">
 
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
-            <h4 class="title" id="lde1"><a href="#lde" class="scrollto">Limpieza de Estructuras</a></h4>
-            <p class="description">
-              <ul style="font-size:12px" align="justify"> Limpieza integral de estructuras en Plantas
-                Industriales, Minas, Complejos
-                Metalúrgicos y Edificios en General. Contamos con equipos de elevación y personal altamente calificado
-                y certificado con formatos DC3 Manejo de Alturas. Se utilizan químicos biodegradables y amigables con
-                el medio ambiente como:</ul>
-              <ul style="font-size:12px" align="justify"> Desengrasantes, Desoxidantes, Limpiadores
-                Comerciales,Industriales y Grado Alimenticio</ul>
+            <h4 class="title" id="lde1"><a href="#lde">Limpieza de Estructuras</a></h4>
+            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint
+              occaecati cupiditate non provident</p>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
-            <h4 class="title" id="lu2"><a href="#lu23" class="scrollto">Limpieza de Drenajes</a></h4>
-            <p class="description">
-              <ul style="font-size:12px" align="justify"> Limpieza integral de sistemas de drenaje mediante desazolve
-                con equipo industrial y/o equipos sencillos manuales donde se realiza a detalle la limpieza mediante
-                bacterias y enzimas causantes de mal olor, además de eliminar cualquier fuente de infección con
-                productos especializados. </ul>
-            </p>
+            <h4 class="title"><a href="">Limpieza de Drenajes</a></h4>
+            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat tarad limino ata</p>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
             <h4 class="title"><a href="">Limpieza de Techos</a></h4>
-            <p class="description">
-              <ul style="font-size:12px" align="justify"> Limpieza integral de techos en plantas industriales, plantas
-                de alimentos y edificios en general. El objetivo es proporcionar mantenimiento preventivo en las
-                superficies de los edificios mediante herramientas funcionales, contamos con limpieza de canaletas,
-                tuberías, y superficie en general. Este tipo de limpieza se presenta por lo general cuando existen
-                lluvias, viento y cambios climatológicos en general. </ul>
-            </p>
+            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat tarad limino ata</p>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
             <h4 class="title"><a href="">Pisos Pulidos</a></h4>
-            <p class="description">
-              <ul style="font-size:12px" align="justify"> Limpieza integral en cualquier tipo de pisos. Contamos con
-                equipos y personal calificado para darle el mantenimiento apropiado a los acabados y superficies de
-                pisos. Contamos con equipos de alta y de baja velocidad con productos químicos especializados para que
-                nunca pierda brillo y así proporcionar esa imagen que nuestros clientes desean darle a los suyos. </ul>
-            </p>
+            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat tarad limino ata</p>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
             <h4 class="title"><a href="">Limpieza de Muros</a></h4>
-            <p class="description">
-              <ul style="font-size:12px" align="justify"> Limpieza integral de techos en plantas industriales, plantas
-                de alimentos y edificios en general. El objetivo es proporcionar mantenimiento preventivo en las
-                superficies de los edificios mediante herramientas funcionales, contamos con limpieza de canaletas,
-                tuberías, y superficie en general. Este tipo de limpieza se presenta por lo general cuando existen
-                lluvias, viento y cambios climatológicos en general. </ul>
-            </p>
+            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+              commodo consequat tarad limino ata</p>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-paper-outline"></i></div>
             <h4 class="title"><a href="">Limpieza de Oficinas</a></h4>
-            <p class="description">
-              <ul style="font-size:12px" align="justify"> Limpieza integral de oficinas mediante afanadores con
-                experiencia y calificados para dar un servicio de calidad. El objetivo es proporcionar una imagen de
-                organización y limpieza con personal altamente calificado, serio y responsable para apoyar en la
-                organización de cada una de las áreas asignadas por nuestros clientes. </ul>
-            </p>
+            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+              fugiat nulla pariatur</p>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
             <h4 class="title"><a href="">Limpieza de Alfombras</a></h4>
-            <p class="description">
-              <ul style="font-size:12px" align="justify">Limpieza integral de alfombras mediante equipos especializados
-                a base de vapor, maquinaria especializada y detergentes o limpiadores amigables con el medio ambiente y
-                cuyos componentes dan brillo y mantienen la fibra de la alfombra en óptimas condiciones. </ul>
-            </p>
+            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+              mollit anim id est laborum</p>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-barcode-outline"></i></div>
             <h4 class="title"><a href="">Limpieza de Sanitarios</a></h4>
-            <p class="description">
-              <ul style="font-size:12px" align="justify">Limpieza integral de sanitarios mediante la implementación de
-                procesos de sanitización y limpieza general. Se utilizan equipos automáticos y manuales de lavado con
-                detergentes especializados en la eliminación de fuentes de infección y mal olor. Contamos con personal
-                altamente calificado y herramientas funcionales para proporcionar un servicio de calidad. </ul>
-            </p>
+            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
+              praesentium voluptatum deleniti atque</p>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="icon"><i class="ion-ios-people-outline"></i></div>
             <h4 class="title"><a href="">Sanitizacion</a></h4>
-            <p class="description">
-              <ul style="font-size:12px" align="justify">Sistema integral de sanitización en áreas específicas y en
-                general. Se implementan procesos determinados avalados y supervisados por dependencias gubernamentales
-                en plantas de alimentos y hospitales. Contamos con un amplio surtido en limpiadores, detergentes y
-                químicos en general para proporcionar un servicio de calidad según sea la necesidad. </ul>
-            </p>
-          </div>
-          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
-            <h4 class="title"><a href="">Desazolve</a></h4>
-            <p class="description">
-              <ul style="font-size:12px" align="justify"> Sistema integral para desazolve de trampas de grasa, cárcamos
-                de agua de recuperación y fosas sépticas. Contamos con equipos especializados en la extracción de agua
-                y /o sólidos de cualquier índole para la limpieza y correcto mantenimiento en el giro alimenticio,
-                industrial y comercial. </ul>
-            </p>
-          </div>
-          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
-            <h4 class="title"><a href="">Limpieza de Maquinaria</a></h4>
-            <p class="description">
-              <ul style="font-size:12px" align="justify"> Limpieza integral de maquinaria industrial, construcción,
-                procesos, transporte y maquinaria especializada. Contamos con personal calificado, y equipos
-                especializados para alargar la vida de maquinaria de cualquier tipo, además de químicos y limpiadores
-                de alta eficiencia que mantendrán cualquier tipo de maquinaria en óptimas condiciones. </ul>
-            </p>
-          </div>
-          <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
-            <h4 class="title"><a href="">Tratamientos Especializados</a></h4>
-            <p class="description">
-              <ul style="font-size:10px" align="justify"> Nuestros tratamientos especializados consisten en el estudio
-                y aplicación de nuevas tendencias en áreas como Plantas de Alimentos, Granjas, Industria y Minería. Nos
-                enfocamos en las necesidades específicas de nuestros clientes para crear nuevas oportunidades en el
-                giro. Se realizan estudios, componentes, y variaciones directas e indirectas para diseñar la mejor
-                opción de limpieza y mantenimiento preventivo en el área solicitada. Nos ajustamos a cualquier tipo de
-                operación con el estudio previo y la correcta asesoría de profesionales en el tema y la demanda del
-                usuario, generando soluciones novedosas y a la medida de nuestros clientes. </ul>
-            </p>
+            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum
+              soluta nobis est eligendi</p>
           </div>
 
         </div>
 
       </div>
     </section>
+    -------- portafolio -------
     <section id="portfolio" class="section-bg">
       <div class="container">
 
@@ -430,6 +362,7 @@
 
               <div class="portfolio-info">
                 <h4 id="lde"><a href="#lde1" class="scrollto">Limpieza de Estructuras</a></h4>
+                <p>App</p>
               </div>
             </div>
           </div>
@@ -444,7 +377,8 @@
               </figure>
 
               <div class="portfolio-info">
-                <h4 id="lu23"><a href="#lu2" class="scrollto">Limpieza de Drenajes</a></h4>
+                <h4><a href="#">Limpieza de Drenajes</a></h4>
+                <p>Web</p>
               </div>
             </div>
           </div>
@@ -460,6 +394,7 @@
 
               <div class="portfolio-info">
                 <h4><a href="#">Limpieza de Techos</a></h4>
+                <p>App</p>
               </div>
             </div>
           </div>
@@ -475,6 +410,7 @@
 
               <div class="portfolio-info">
                 <h4><a href="#">Pisos Pulidos</a></h4>
+                <p>Card</p>
               </div>
             </div>
           </div>
@@ -490,6 +426,7 @@
 
               <div class="portfolio-info">
                 <h4><a href="#">Limpieza de Muros</a></h4>
+                <p>Web</p>
               </div>
             </div>
           </div>
@@ -505,6 +442,7 @@
 
               <div class="portfolio-info">
                 <h4><a href="#">Limpieza de Oficinas</a></h4>
+                <p>App</p>
               </div>
             </div>
           </div>
@@ -520,6 +458,7 @@
 
               <div class="portfolio-info">
                 <h4><a href="#">Limpieza de Alfombras</a></h4>
+                <p>Card</p>
               </div>
             </div>
           </div>
@@ -535,6 +474,7 @@
 
               <div class="portfolio-info">
                 <h4><a href="#">Limpieza de Sanitarios</a></h4>
+                <p>Card</p>
               </div>
             </div>
           </div>
@@ -550,48 +490,7 @@
 
               <div class="portfolio-info">
                 <h4><a href="#">Sanitizacion</a></h4>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp" data-wow-delay="0.1s">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="img/portfolio/desasolve.jpg" class="img-fluid" alt="">
-                <a href="img/portfolio/desasolve.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 3"
-                  title="Preview"><i class="ion ion-eye"></i></a>
-                <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="#">Desazolve</a></h4>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp" data-wow-delay="0.1s">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="img/portfolio/limpm.jpg" class="img-fluid" alt="">
-                <a href="img/portfolio/limpm.jpg" class="link-preview" data-lightbox="portfolio" data-title="" title="Preview"><i
-                    class="ion ion-eye"></i></a>
-                <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="#">Limpieza de Maquinaria</a></h4>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp" data-wow-delay="0.1s">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="img/portfolio/tratesp.jpg" class="img-fluid" alt="">
-                <a href="img/portfolio/tratesp.jpg" class="link-preview" data-lightbox="portfolio" data-title="Tratamientos Especializados"
-                  title="Preview"><i class="ion ion-eye"></i></a>
-                <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="#">Tratamientos Especializados</a></h4>
+                <p>Web</p>
               </div>
             </div>
           </div>
@@ -728,7 +627,7 @@
             <div class="contact-email">
               <i class="ion-ios-email-outline"></i>
               <h3>Correo</h3>
-              <p><a href="mailto:limpco@gmail.com">limpco@gmail.com</a></p>
+              <p><a href="mailto:info@example.com">limpco@gmail.com</a></p>
             </div>
           </div>
 
@@ -787,9 +686,10 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Links de Utilidad</h4>
             <ul>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#intro ">Inicio</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#about">Nosotros</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#services ">Servicios</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#">Inicio</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#">Nosotros</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#">Servicios</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#">Politicas de Privacidad</a></li>
             </ul>
           </div>
 
@@ -802,13 +702,13 @@
               Col. Jesus Garcia <br>
               Hermosillo, Sonora<br>
               Mexico <br>
-              <strong>Telefono:</strong> (662)210 3304<br>
-              <strong>Correo:</strong> limpco@gmail.com <br>
+              <strong>Telefono:</strong> 123 123 12<br>
+              <strong>Correo:</strong> info@example.com<br>
             </p>
 
             <div class="social-links">
               <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-              <a href="https://www.facebook.com/LimpcoIndustrial/" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>
+              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
               <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
             </div>
 
@@ -845,7 +745,6 @@
   <script src="contactform/contactform.js"></script>
 
   <script src="js/main.js"></script>
-
 
 </body>
 
