@@ -1569,6 +1569,7 @@ img {
   }
 
   #mobile-nav-toggle {
+    background-color: #18d26e;
     display: inline;
   }
 }
